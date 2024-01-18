@@ -4,6 +4,8 @@ A list to put sites.
 
 ## NSFW Sites
 
+- [Kimochi Gaming](https://kimochi.info/)
+
 - [Camellia](https://www.uemoe.com/)
 
 - [Pixiv](https://www.pixiv.net/)
